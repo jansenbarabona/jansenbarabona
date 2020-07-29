@@ -1,4 +1,4 @@
-### Hi there, I'm Jansen Barabona - aka [Jans][website] 👋
+### Hi there, I'm Jansen Barabona [website] 👋
 
 ## I'm a Web Developer, and Software Developer!
 - 🔭 I’m currently working on a [VS Code Course][website]!
