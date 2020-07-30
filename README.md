@@ -1,5 +1,5 @@
 ### Hi there, I'm Jansen Barabona [website] 👋
-
+[![HitCount](http://hits.dwyl.com/jansenbarabona/jansenbarabona.svg)](http://hits.dwyl.com/jansenbarabona/jansenbarabona)
 ## I'm a Web Developer, and Software Developer!
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
