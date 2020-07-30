@@ -66,7 +66,7 @@
 <img align="left" alt="jansen barabona Github Stats" src="https://github-readme-stats.vercel.app/api?username=jansenbarabona&show_icons=true&hide_border=true" />
 
 [website]: https://
-[twitter]: https://twitter.com/
+[twitter]: https://twitter.com/nesnaj95/
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/nesnaj_luching_barabona/
 [linkedin]: https://linkedin.com/in/
