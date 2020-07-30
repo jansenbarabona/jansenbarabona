@@ -13,7 +13,7 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[https://www.instagram.com/nesnaj_luching_barabona/]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[Instagram]
 
 <br />
 
@@ -68,7 +68,7 @@
 [website]: https://
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
-[instagram]: https://instagram.com/
+[instagram]: https://www.instagram.com/nesnaj_luching_barabona/
 [linkedin]: https://linkedin.com/in/
 [webdevplaylist]: https://www.youtube.com/playlist?list=
 [jsplaylist]: https://www.youtube.com/playlist?list=
