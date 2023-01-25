@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" color="white" alt="website.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="website.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="linkendin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -54,11 +54,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/)
-- [Emmet Part 2 - Advanced](https://dev.to/)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/)
+- [Microinteractions: Password Validation Animation]([https://dev](https://jansenbarabona.github.io/))
+- [Notion + YouTube - A Powerful Combination for Productivity]([https://dev](https://jansenbarabona.github.io/))
+- [Regular Expressions (RegEx) Crash Course]([https://dev/](https://jansenbarabona.github.io/))
+- [Emmet Part 2 - Advanced]([https://](https://jansenbarabona.github.io/))
+- [Deno 1.0 Released! (Easy) REST API Example]([https://](https://jansenbarabona.github.io/))
 <!-- BLOG-POST-LIST:END -->
 
 ---
