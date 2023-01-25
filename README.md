@@ -1,4 +1,4 @@
-### Hi there, I'm Jansen Barabona [website] 👋
+### Hi there, I'm Jansen Barabona [<img align="left" alt="[website.com](https://jansenbarabona.github.io/)" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[website] 👋
 [![HitCount](http://hits.dwyl.com/jansenbarabona/jansenbarabona.svg)](http://hits.dwyl.com/jansenbarabona/jansenbarabona)
 ## I'm a Web Developer, and Software Developer!
 - 🔭 I’m currently working on a [VS Code Course][website]!
